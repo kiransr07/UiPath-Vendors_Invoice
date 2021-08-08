@@ -3,6 +3,7 @@
   "description": "Saving each vendors invoice in the excel\r\n",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.11.0-preview]",
     "UiPath.Mail.Activities": "[1.11.0-preview]",
     "UiPath.System.Activities": "[21.6.1-preview]",
